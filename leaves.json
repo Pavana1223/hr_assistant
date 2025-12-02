@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Casual Leave Policy",
+    "text": "Employees are allowed up to 12 casual leave days per year. Casual leave can be used for short-term personal needs or emergencies."
+  },
+  {
+    "id": 2,
+    "title": "Sick Leave Policy",
+    "text": "Employees may take paid sick leave when unwell. A medical certificate is required for absences longer than two consecutive days."
+  },
+  {
+    "id": 3,
+    "title": "Maternity Leave Policy",
+    "text": "Female employees are entitled to 26 weeks of maternity leave as per government regulations."
+  },
+  {
+    "id": 4,
+    "title": "Paternity Leave Policy",
+    "text": "Male employees may take up to 15 days of paternity leave within six months of childbirth."
+  }
+]

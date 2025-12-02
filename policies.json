@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Working Hours Policy",
+    "text": "Employees are required to work 8 hours per day. Flexible working hours are allowed with manager approval."
+  },
+  {
+    "id": 2,
+    "title": "Dress Code Policy",
+    "text": "Employees must maintain a smart casual dress code from Monday to Thursday and casual attire on Fridays."
+  },
+  {
+    "id": 3,
+    "title": "Code of Conduct",
+    "text": "Employees must follow ethical behavior, maintain professionalism, and avoid conflict of interest situations."
+  }
+]

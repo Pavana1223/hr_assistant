@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "title": "Health Insurance Benefits",
+    "text": "The company provides comprehensive health insurance covering medical, dental, and vision for all full-time employees."
+  },
+  {
+    "id": 2,
+    "title": "Provident Fund",
+    "text": "The company contributes to the employee provident fund as per government regulations."
+  },
+  {
+    "id": 3,
+    "title": "Performance Bonus",
+    "text": "Employees are eligible for annual performance bonuses based on appraisal ratings."
+  },
+  {
+    "id": 4,
+    "title": "Work From Home Benefits",
+    "text": "Employees may work from home up to two days per week depending on project requirements."
+  }]
